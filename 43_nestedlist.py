@@ -1,0 +1,6 @@
+num1=list(range(1,10,2))
+num2=list(range(2,10,2))
+num3=num1.append(num2)
+print(num1)
+print(num2)
+print(num3)

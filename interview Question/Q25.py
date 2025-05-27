@@ -1,0 +1,1 @@
+# Q25. Write a program to count total number of factors of a given number.
